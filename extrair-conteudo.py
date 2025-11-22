@@ -4,7 +4,7 @@ from google.genai import types
 
 # ---------------- CONFIGURAÇÃO ----------------
 # O nome da pasta onde suas imagens .png estão salvas
-INPUT_DIR = "2024-1Dia-Caderno1-Azul-AplicaçãoRegular"
+INPUT_DIR = "imagens"
 # O nome da pasta onde os arquivos .txt de saída serão salvos
 OUTPUT_DIR = "textos_extraidos"
 # Modelo recomendado (rápido e excelente para multimodalidade)
